@@ -10,7 +10,7 @@ assignees: ''
 *Thank you for reporting an issue!
 Please make sure to give answers for the following:*
 
-## 1) Which Modpack version are you using?
+## 1) Which Modpack and version are you using?
  
 ## 2) Link to the crashlog (found in the crash-reports folder).
  *Don't post whole crashlogs directly in here!
